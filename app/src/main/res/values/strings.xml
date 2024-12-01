@@ -15,14 +15,14 @@
     <string name="upload_video">Choose Video or Image</string>
     <string name="upload">UPLOAD</string>
     <string name="title_activity_result">Result</string>
-    <string name="upload_instruction">here you can upload your video</string>
+    <string name="upload_instruction">here you can upload your video or image</string>
     <string name="contact_us_content">
         Contact Us\n\n
         If you have any questions about our Deepfake Detection service, please feel free to contact us:\n\n
         Email: support@deepfakedetector.com\n
         Phone: +1 (555) 123-4567\n\n
         Our team is available Monday through Friday, 9:00 AM to 5:00 PM EST.\n\n
-        For technical issues or concerns about potential deepfake videos, please include relevant details in your message.
+        For technical issues or concerns about potential deepfake videos or images, please include relevant details in your message.
     </string>
 
     <string name="terms_content">
