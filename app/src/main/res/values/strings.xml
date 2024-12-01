@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">SafeSurf</string>
+    <string name="splash_name">AI DEEPFAKE DETECTOR</string>
+    <string name="fake_faces_">
+        DeepFake Detector
+    </string>
+    <string name="DeepFake_Description1">
+        Effortless identify &amp; detect AI - generated Images with our advanced algorithm. Simply input your video, and we will quickly analyze it to detect AI patterns
+
+    </string>
+    <string name="DeepFake_Description">
+        Introducing our deepfake detection app, it uses advanced algorithms and machine learning to spot manipulated media.
+        Combat fake news and verify authenticity with ease.
+    </string>
+    <string name="upload_video">Choose Video</string>
+    <string name="upload">UPLOAD</string>
+    <string name="title_activity_result">Result</string>
+    <string name="upload_instruction">here you can upload your video</string>
+    <string name="contact_us_content">
+        Contact Us\n\n
+        If you have any questions about our Deepfake Detection service, please feel free to contact us:\n\n
+        Email: support@deepfakedetector.com\n
+        Phone: +1 (555) 123-4567\n\n
+        Our team is available Monday through Friday, 9:00 AM to 5:00 PM EST.\n\n
+        For technical issues or concerns about potential deepfake videos, please include relevant details in your message.
+    </string>
+
+    <string name="terms_content">
+        Terms and Conditions\n\n
+        1. Service Description\n
+        Our app provides deepfake detection services using CNN-based artificial intelligence technology.\n\n
+        2. User Responsibilities\n
+        - Users must only upload videos they have legal rights to analyze\n
+        - Users must not attempt to overload or damage our systems\n
+        - Users understand that detection results are probabilistic and not guaranteed\n\n
+        3. Service Limitations\n
+        - Maximum video file size: 100MB\n
+        - Supported formats: MP4, AVI, MOV\n
+        - Processing time may vary based on video length and complexity\n\n
+        4. Privacy\n
+        - Uploaded videos are processed securely\n
+        - We do not store videos longer than necessary for analysis\n
+        - Detection results are confidential\n\n
+        5. Disclaimer\n
+        While we strive for accuracy, our service may not detect all deepfake content.
+    </string>
+
+    <string name="privacy_policy_content">
+        Privacy Policy\n\n
+        1. Data Collection\n
+        We collect:\n
+        - Uploaded video data\n
+        - Basic device information\n
+        - Usage statistics\n\n
+        2. Data Usage\n
+        Your data is used to:\n
+        - Perform deepfake detection\n
+        - Improve our detection algorithms\n
+        - Maintain service quality\n\n
+        3. Data Protection\n
+        - All uploads are encrypted\n
+        - Videos are automatically deleted after analysis\n
+        - No personal data is shared with third parties\n\n
+        4. User Rights\n
+        You have the right to:\n
+        - Request data deletion\n
+        - Access your usage history\n
+        - Opt-out of analytics\n\n
+        5. Contact\n
+        For privacy concerns, contact our Data Protection Officer at privacy@deepfakedetector.com
+    </string>
+</resources>
